@@ -1,0 +1,1 @@
+npm install vue vue-template-compiler sass sass-loader laravel-mix cross-env resolve-url-loader --save-dev
